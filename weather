@@ -1,0 +1,27 @@
+{
+  "current_weather": {
+    "interval": 900,
+    "is_day": 1,
+    "temperature": 25,
+    "time": "2026-02-13T09:30",
+    "weathercode": 1,
+    "winddirection": 17,
+    "windspeed": 6
+  },
+  "current_weather_units": {
+    "interval": "seconds",
+    "is_day": "",
+    "temperature": "°C",
+    "time": "iso8601",
+    "weathercode": "wmo code",
+    "winddirection": "°",
+    "windspeed": "km/h"
+  },
+  "elevation": 6,
+  "generationtime_ms": 0.0611543655395508,
+  "latitude": 19.125,
+  "longitude": 72.875,
+  "timezone": "Asia/Kolkata",
+  "timezone_abbreviation": "GMT+5:30",
+  "utc_offset_seconds": 19800
+}
